@@ -49,3 +49,7 @@ This project introduces a database for documenting vulnerabilities in **Large La
 3. Universal and Transferable Adversarial Attacks
 on Aligned Language Models https://arxiv.org/pdf/2307.15043
 
+---
+### License
+This project is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+
