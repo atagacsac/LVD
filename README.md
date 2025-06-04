@@ -1,6 +1,7 @@
 ## 🧠 LLM Vulnerability Database Schema
 
 This project introduces a database for documenting vulnerabilities in **Large Language Models (LLMs)**, with a focus on their application in **Multi-Agent Systems (MAS)**. This database aims to address that gap by organizing and presenting known LLM vulnerabilities to support threat analysis and enhance security research in this emerging field.
+We plan to maintain the database, which will grow over time as more vulnerabilities/attacks are identified; in this way, the database willserve as a valuable and up-to-date resource for the researcher community, and other researchers are welcome to submit new records for inclusion in the LVD through pull requests. 
 
 ### 📋 Schema Fields of LVDS
 
