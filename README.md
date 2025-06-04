@@ -29,7 +29,7 @@ This project introduces a database for documenting vulnerabilities in **Large La
 - **Tactic & Technique (MITRE ATLAS)** – Maps each attack to standardized framework, for threat modeling.
 - **Impact (CIA Triad)** – Clarifies what’s at risk Confidentiality, Integrity, or Availability.
 - **Severity & ASR** – Together, these fields offer a quick read on how damaging and successful an attack is.
-
+---
 ### Tool Categorization and Descriptions
 
 | **Tool Category**           | **Description**                                                   |
@@ -42,6 +42,7 @@ This project introduces a database for documenting vulnerabilities in **Large La
 | Sensor/Actuator            | Tools that interact with the physical world.                     |
 | No Tool/LLM Core           | No tool, the LLM's core processing, prompting, or its direct output handling. |
 
+---
 ###  Papers used in LVD:
 1. JAILBREAKING LEADING SAFETY-ALIGNED LLMS WITH SIMPLE ADAPTIVE ATTACKS https://arxiv.org/pdf/2404.02151
 2. Phantom: General Trigger Attacks on Retrieval Augmented Language Generation https://arxiv.org/pdf/2405.20485
