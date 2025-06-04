@@ -42,3 +42,9 @@ This project introduces a database for documenting vulnerabilities in **Large La
 | Sensor/Actuator            | Tools that interact with the physical world.                     |
 | No Tool/LLM Core           | No tool, the LLM's core processing, prompting, or its direct output handling. |
 
+###  Papers used in LVD:
+1. JAILBREAKING LEADING SAFETY-ALIGNED LLMS WITH SIMPLE ADAPTIVE ATTACKS https://arxiv.org/pdf/2404.02151
+2. Phantom: General Trigger Attacks on Retrieval Augmented Language Generation https://arxiv.org/pdf/2405.20485
+3. Universal and Transferable Adversarial Attacks
+on Aligned Language Models https://arxiv.org/pdf/2307.15043
+
